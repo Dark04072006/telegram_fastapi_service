@@ -1,0 +1,5 @@
+__pycache__
+.idea
+backend_env
+.env
+users.db
